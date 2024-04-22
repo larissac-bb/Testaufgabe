@@ -1,0 +1,14 @@
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/bin/Debug/net8.0/TestaufgabeCipsoft
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/bin/Debug/net8.0/TestaufgabeCipsoft.deps.json
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/bin/Debug/net8.0/TestaufgabeCipsoft.runtimeconfig.json
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/bin/Debug/net8.0/TestaufgabeCipsoft.dll
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/bin/Debug/net8.0/TestaufgabeCipsoft.pdb
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.AssemblyInfoInputs.cache
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.AssemblyInfo.cs
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.csproj.CoreCompileInputs.cache
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.dll
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/refint/TestaufgabeCipsoft.dll
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.pdb
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/TestaufgabeCipsoft.genruntimeconfig.cache
+/Users/larissachrist/Documents/projects/Cipsoft/TestaufgabeCipsoft/obj/Debug/net8.0/ref/TestaufgabeCipsoft.dll
